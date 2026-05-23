@@ -1,0 +1,85 @@
+{
+  "common": {
+    "allcashtech": "AllCash Tech",
+    "support": "Support",
+    "documentation": "Documentation",
+    "security": "Sécurité",
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "logout": "Déconnexion",
+    "language": "Langue",
+    "loading": "Chargement",
+    "error": "Erreur",
+    "success": "Succès",
+    "cancel": "Annuler",
+    "confirm": "Confirmer",
+    "close": "Fermer"
+  },
+  "navigation": {
+    "swap": "Échange",
+    "cashWithdrawal": "Retrait Espèces",
+    "paypalWithdrawal": "PayPal",
+    "escrow": "Séquestre",
+    "operations": "Opérations",
+    "home": "Accueil"
+  },
+  "swap": {
+    "title": "Échange de Crypto-monnaies",
+    "selectToken": "Sélectionner une Crypto",
+    "amount": "Montant",
+    "exchange": "Échanger",
+    "youSend": "Vous envoyez",
+    "youReceive": "Vous recevez",
+    "rate": "Taux d'échange",
+    "fees": "Frais",
+    "total": "Total",
+    "swap": "Échanger maintenant"
+  },
+  "escrow": {
+    "title": "Paiement en Séquestre",
+    "description": "Service de paiement sécurisé pour la protection de l'acheteur et du vendeur",
+    "selectCrypto": "Sélectionner une Crypto-monnaie",
+    "fiatAmount": "Montant en Monnaie Fiduciaire",
+    "buyerEmail": "Email de l'Acheteur",
+    "sellerEmail": "Email du Vendeur",
+    "sellerAddress": "Adresse du Vendeur",
+    "description": "Description des biens ou services",
+    "amountInOtherCurrencies": "Montant dans Autres Devises",
+    "create": "Créer un Séquestre",
+    "invalidAmount": "Montant Invalide",
+    "escrowNotice": "Le séquestre protège l'acheteur et le vendeur. Le vendeur ne reçoit le paiement qu'après confirmation de réception par l'acheteur."
+  },
+  "cashWithdrawal": {
+    "title": "Retrait en Espèces",
+    "country": "Sélectionner un Pays",
+    "amount": "Montant",
+    "crypto": "Crypto-monnaie",
+    "deliveryMethod": "Méthode de Livraison",
+    "recipientName": "Nom du Destinataire",
+    "recipientAddress": "Adresse du Destinataire",
+    "phone": "Numéro de Téléphone",
+    "withdraw": "Demander le Retrait"
+  },
+  "paypal": {
+    "title": "Retrait PayPal",
+    "email": "Email PayPal",
+    "amount": "Montant",
+    "crypto": "Crypto-monnaie",
+    "withdraw": "Retirer vers PayPal"
+  },
+  "operations": {
+    "title": "Opérations Récentes",
+    "status": "Statut",
+    "type": "Type",
+    "amount": "Montant",
+    "date": "Date",
+    "details": "Détails",
+    "noOperations": "Aucune opération pour le moment"
+  },
+  "currencies": {
+    "USD": "Dollar Américain",
+    "EUR": "Euro",
+    "RON": "Leu Roumain",
+    "CHF": "Franc Suisse"
+  }
+}

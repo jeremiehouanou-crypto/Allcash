@@ -1,0 +1,85 @@
+{
+  "common": {
+    "allcashtech": "AllCash Tech",
+    "support": "Support",
+    "documentation": "Documentation",
+    "security": "Security",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "logout": "Logout",
+    "language": "Language",
+    "loading": "Loading",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "close": "Close"
+  },
+  "navigation": {
+    "swap": "Swap",
+    "cashWithdrawal": "Cash Withdrawal",
+    "paypalWithdrawal": "PayPal",
+    "escrow": "Escrow",
+    "operations": "Operations",
+    "home": "Home"
+  },
+  "swap": {
+    "title": "Cryptocurrency Swap",
+    "selectToken": "Select Token",
+    "amount": "Amount",
+    "exchange": "Exchange",
+    "youSend": "You Send",
+    "youReceive": "You Receive",
+    "rate": "Exchange Rate",
+    "fees": "Fees",
+    "total": "Total",
+    "swap": "Swap Now"
+  },
+  "escrow": {
+    "title": "Escrow Payment",
+    "description": "Secure payment service for buyer and seller protection",
+    "selectCrypto": "Select Cryptocurrency",
+    "fiatAmount": "Fiat Amount",
+    "buyerEmail": "Buyer Email",
+    "sellerEmail": "Seller Email",
+    "sellerAddress": "Seller Address",
+    "description": "Description of goods or services",
+    "amountInOtherCurrencies": "Amount in Other Currencies",
+    "create": "Create Escrow",
+    "invalidAmount": "Invalid Amount",
+    "escrowNotice": "Escrow protects both buyer and seller. The seller receives payment only after the buyer confirms receipt."
+  },
+  "cashWithdrawal": {
+    "title": "Cash Withdrawal",
+    "country": "Select Country",
+    "amount": "Amount",
+    "crypto": "Cryptocurrency",
+    "deliveryMethod": "Delivery Method",
+    "recipientName": "Recipient Name",
+    "recipientAddress": "Recipient Address",
+    "phone": "Phone Number",
+    "withdraw": "Request Withdrawal"
+  },
+  "paypal": {
+    "title": "PayPal Withdrawal",
+    "email": "PayPal Email",
+    "amount": "Amount",
+    "crypto": "Cryptocurrency",
+    "withdraw": "Withdraw to PayPal"
+  },
+  "operations": {
+    "title": "Recent Operations",
+    "status": "Status",
+    "type": "Type",
+    "amount": "Amount",
+    "date": "Date",
+    "details": "Details",
+    "noOperations": "No operations yet"
+  },
+  "currencies": {
+    "USD": "US Dollar",
+    "EUR": "Euro",
+    "RON": "Romanian Leu",
+    "CHF": "Swiss Franc"
+  }
+}

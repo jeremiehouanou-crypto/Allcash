@@ -1,0 +1,85 @@
+{
+  "common": {
+    "allcashtech": "AllCash Tech",
+    "support": "Suport",
+    "documentation": "Documentație",
+    "security": "Securitate",
+    "privacy": "Confidențialitate",
+    "terms": "Condiții",
+    "logout": "Deconectare",
+    "language": "Limbă",
+    "loading": "Se încarcă",
+    "error": "Eroare",
+    "success": "Succes",
+    "cancel": "Anulare",
+    "confirm": "Confirmare",
+    "close": "Închidere"
+  },
+  "navigation": {
+    "swap": "Schimb",
+    "cashWithdrawal": "Retragere Numerar",
+    "paypalWithdrawal": "PayPal",
+    "escrow": "Depozit de Garanție",
+    "operations": "Operații",
+    "home": "Acasă"
+  },
+  "swap": {
+    "title": "Schimb de Criptomonede",
+    "selectToken": "Selectați Criptomonedă",
+    "amount": "Valoare",
+    "exchange": "Schimbați",
+    "youSend": "Trimiteți",
+    "youReceive": "Primiți",
+    "rate": "Curs de schimb",
+    "fees": "Taxe",
+    "total": "Total",
+    "swap": "Schimbați acum"
+  },
+  "escrow": {
+    "title": "Plată în Depozit de Garanție",
+    "description": "Serviciu de plată sigur pentru protecția cumpărătorului și vânzătorului",
+    "selectCrypto": "Selectați Criptomonedă",
+    "fiatAmount": "Valoare în Monedă Fiduciară",
+    "buyerEmail": "Email Cumpărător",
+    "sellerEmail": "Email Vânzător",
+    "sellerAddress": "Adresa Vânzător",
+    "description": "Descrierea bunurilor sau serviciilor",
+    "amountInOtherCurrencies": "Valoare în Alte Monede",
+    "create": "Creați Depozit de Garanție",
+    "invalidAmount": "Valoare Nevalidă",
+    "escrowNotice": "Depozitul de garanție protejează cumpărătorul și vânzătorul. Vânzătorul primește plata doar după confirmarea recepției de către cumpărător."
+  },
+  "cashWithdrawal": {
+    "title": "Retragere Numerar",
+    "country": "Selectați Țară",
+    "amount": "Valoare",
+    "crypto": "Criptomonedă",
+    "deliveryMethod": "Metoda de Livrare",
+    "recipientName": "Numele Beneficiarului",
+    "recipientAddress": "Adresa Beneficiarului",
+    "phone": "Număr de Telefon",
+    "withdraw": "Solicitați Retragere"
+  },
+  "paypal": {
+    "title": "Retragere PayPal",
+    "email": "Email PayPal",
+    "amount": "Valoare",
+    "crypto": "Criptomonedă",
+    "withdraw": "Retrageți pe PayPal"
+  },
+  "operations": {
+    "title": "Operații Recente",
+    "status": "Status",
+    "type": "Tip",
+    "amount": "Valoare",
+    "date": "Dată",
+    "details": "Detalii",
+    "noOperations": "Fără operații"
+  },
+  "currencies": {
+    "USD": "Dolar American",
+    "EUR": "Euro",
+    "RON": "Leu Român",
+    "CHF": "Franc Elvețian"
+  }
+}

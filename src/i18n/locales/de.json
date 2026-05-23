@@ -1,0 +1,85 @@
+{
+  "common": {
+    "allcashtech": "AllCash Tech",
+    "support": "Unterstützung",
+    "documentation": "Dokumentation",
+    "security": "Sicherheit",
+    "privacy": "Datenschutz",
+    "terms": "Bedingungen",
+    "logout": "Abmelden",
+    "language": "Sprache",
+    "loading": "Wird geladen",
+    "error": "Fehler",
+    "success": "Erfolg",
+    "cancel": "Abbrechen",
+    "confirm": "Bestätigen",
+    "close": "Schließen"
+  },
+  "navigation": {
+    "swap": "Tausch",
+    "cashWithdrawal": "Barauszahlung",
+    "paypalWithdrawal": "PayPal",
+    "escrow": "Treuhand",
+    "operations": "Operationen",
+    "home": "Startseite"
+  },
+  "swap": {
+    "title": "Kryptowährungsaustausch",
+    "selectToken": "Kryptowährung auswählen",
+    "amount": "Menge",
+    "exchange": "Austausch",
+    "youSend": "Sie senden",
+    "youReceive": "Sie erhalten",
+    "rate": "Wechselkurs",
+    "fees": "Gebühren",
+    "total": "Gesamt",
+    "swap": "Jetzt austauschen"
+  },
+  "escrow": {
+    "title": "Treuhandzahlung",
+    "description": "Sicherer Zahlungsdienst zum Schutz von Käufer und Verkäufer",
+    "selectCrypto": "Kryptowährung auswählen",
+    "fiatAmount": "Betrag in Fiat-Währung",
+    "buyerEmail": "E-Mail des Käufers",
+    "sellerEmail": "E-Mail des Verkäufers",
+    "sellerAddress": "Adresse des Verkäufers",
+    "description": "Beschreibung der Waren oder Dienstleistungen",
+    "amountInOtherCurrencies": "Betrag in anderen Währungen",
+    "create": "Treuhand erstellen",
+    "invalidAmount": "Ungültiger Betrag",
+    "escrowNotice": "Die Treuhand schützt Käufer und Verkäufer. Der Verkäufer erhält die Zahlung erst nach Bestätigung des Käufers."
+  },
+  "cashWithdrawal": {
+    "title": "Barauszahlung",
+    "country": "Land wählen",
+    "amount": "Betrag",
+    "crypto": "Kryptowährung",
+    "deliveryMethod": "Liefermethode",
+    "recipientName": "Name des Empfängers",
+    "recipientAddress": "Adresse des Empfängers",
+    "phone": "Telefonnummer",
+    "withdraw": "Auszahlung anfordern"
+  },
+  "paypal": {
+    "title": "PayPal-Auszahlung",
+    "email": "PayPal-E-Mail",
+    "amount": "Betrag",
+    "crypto": "Kryptowährung",
+    "withdraw": "Zu PayPal auszahlen"
+  },
+  "operations": {
+    "title": "Letzte Operationen",
+    "status": "Status",
+    "type": "Typ",
+    "amount": "Betrag",
+    "date": "Datum",
+    "details": "Details",
+    "noOperations": "Noch keine Operationen"
+  },
+  "currencies": {
+    "USD": "US-Dollar",
+    "EUR": "Euro",
+    "RON": "Rumänischer Leu",
+    "CHF": "Schweizer Franken"
+  }
+}

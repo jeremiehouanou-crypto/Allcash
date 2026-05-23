@@ -1,0 +1,85 @@
+{
+  "common": {
+    "allcashtech": "AllCash Tech",
+    "support": "Soporte",
+    "documentation": "Documentación",
+    "security": "Seguridad",
+    "privacy": "Privacidad",
+    "terms": "Términos",
+    "logout": "Cerrar sesión",
+    "language": "Idioma",
+    "loading": "Cargando",
+    "error": "Error",
+    "success": "Éxito",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "close": "Cerrar"
+  },
+  "navigation": {
+    "swap": "Intercambio",
+    "cashWithdrawal": "Retiro en Efectivo",
+    "paypalWithdrawal": "PayPal",
+    "escrow": "Depósito en Garantía",
+    "operations": "Operaciones",
+    "home": "Inicio"
+  },
+  "swap": {
+    "title": "Intercambio de Criptomonedas",
+    "selectToken": "Seleccionar Criptomoneda",
+    "amount": "Cantidad",
+    "exchange": "Intercambiar",
+    "youSend": "Usted envía",
+    "youReceive": "Usted recibe",
+    "rate": "Tasa de cambio",
+    "fees": "Comisiones",
+    "total": "Total",
+    "swap": "Intercambiar ahora"
+  },
+  "escrow": {
+    "title": "Pago en Depósito en Garantía",
+    "description": "Servicio de pago seguro para la protección del comprador y vendedor",
+    "selectCrypto": "Seleccionar Criptomoneda",
+    "fiatAmount": "Cantidad en Moneda Fiduciaria",
+    "buyerEmail": "Email del Comprador",
+    "sellerEmail": "Email del Vendedor",
+    "sellerAddress": "Dirección del Vendedor",
+    "description": "Descripción de los bienes o servicios",
+    "amountInOtherCurrencies": "Cantidad en Otras Monedas",
+    "create": "Crear Depósito en Garantía",
+    "invalidAmount": "Cantidad Inválida",
+    "escrowNotice": "El depósito en garantía protege al comprador y vendedor. El vendedor recibe el pago solo después de que el comprador confirma la recepción."
+  },
+  "cashWithdrawal": {
+    "title": "Retiro en Efectivo",
+    "country": "Seleccionar País",
+    "amount": "Cantidad",
+    "crypto": "Criptomoneda",
+    "deliveryMethod": "Método de Entrega",
+    "recipientName": "Nombre del Destinatario",
+    "recipientAddress": "Dirección del Destinatario",
+    "phone": "Número de Teléfono",
+    "withdraw": "Solicitar Retiro"
+  },
+  "paypal": {
+    "title": "Retiro PayPal",
+    "email": "Email de PayPal",
+    "amount": "Cantidad",
+    "crypto": "Criptomoneda",
+    "withdraw": "Retirar a PayPal"
+  },
+  "operations": {
+    "title": "Operaciones Recientes",
+    "status": "Estado",
+    "type": "Tipo",
+    "amount": "Cantidad",
+    "date": "Fecha",
+    "details": "Detalles",
+    "noOperations": "Sin operaciones aún"
+  },
+  "currencies": {
+    "USD": "Dólar Estadounidense",
+    "EUR": "Euro",
+    "RON": "Leu Rumano",
+    "CHF": "Franco Suizo"
+  }
+}
